@@ -1,5 +1,5 @@
-### hi 👋
+## hi 👋
 
-i'm xylz
+- currently developing [xylz.tv](https://xylz.tv)
 
-virus link here: [discord.gg/HMjWaGh](https://discord.gg/HMjWaGh)
+#### virus link here: [discord.gg/HMjWaGh](https://discord.gg/HMjWaGh)
