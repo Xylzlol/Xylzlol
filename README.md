@@ -5,8 +5,6 @@
   </picture>
 </a>
 
-Independent security research.
-
 ### Public work
 
 [**ENS Audit Competition**](https://immunefi.com/audit-competition/audit-competition-ens/leaderboard/#top) on Immunefi, 18 August to 14 September 2026.
