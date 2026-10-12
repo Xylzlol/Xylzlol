@@ -18,4 +18,4 @@ Placed **4th of 186**, with 3 critical and 1 medium.
 
 ### Elsewhere
 
-[xylz.online](https://xylz.online/) · [Immunefi](https://immunefi.com/profile/xylz/) · [X](https://x.com/xylz__1) · [the site's source](https://github.com/Xylzlol/xylz.online)
+[xylz.online](https://xylz.online/) [Immunefi](https://immunefi.com/profile/xylz/) [X](https://x.com/xylz__1) [site source](https://github.com/Xylzlol/xylz.online)
